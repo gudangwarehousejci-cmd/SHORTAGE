@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Shortage Bahan Baku",
+  "description": "Aplikasi monitoring dan mitigasi shortage bahan baku gudang dan produksi real-time dengan kalkulator run-out stock dan laporan operasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
